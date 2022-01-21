@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)  
+![](https://komarev.com/ghpvc/?username=yakupbilgen&label=PROFILE+VIEWS)  
 </p>
