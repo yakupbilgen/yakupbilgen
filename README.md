@@ -20,6 +20,4 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
 </p>
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=yakupbilgen&label=PROFILE+VIEWS)  
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yakupbilgen&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
