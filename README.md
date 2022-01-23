@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yakup</h1>
 
-<img align="center" src="https://github.com/yakupbilgen/yakupbilgen/readme_cover.png" />
+<img align="center" src="https://github.com/yakupbilgen/yakupbilgen/blob/main/readme_cover.png" />
 
 - 📝 I regularly write articles on **[www.yakupbilgen.com](www.yakupbilgen.com)**
 
