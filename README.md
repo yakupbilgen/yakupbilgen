@@ -22,7 +22,8 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
 </p>
 
-<p>My Google Play Account
+<h3 align="left">My Google Play Account</h3>
+<p align="left">
   <a href="https://play.google.com/store/apps/dev?id=5253923400709940668"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/googleplay-publisher.svg" alt="Flutter GooglePlay Publisher" align="left" height="60" width="60" ></a>
 </p>
 
